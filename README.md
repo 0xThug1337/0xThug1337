@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Learning ruby**
 
-- 📫 How to reach me **Mozartestmort1337@proton.me**
+- 📫 How to reach me **0xThug@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
