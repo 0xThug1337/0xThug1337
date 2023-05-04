@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xthug1337" alt="0xthug1337" /></a> </p>
 
-- 🔭 I’m currently working on **RPS Simulator**
+- 🔭 I’m currently working on **Spongebob Virus**
 
-- 🌱 I’m currently learning **Ruby and Javascript**
+- 🌱 I’m currently learning **Nothing**
 
-- 👯 I’m looking to collaborate on **A javascript project**
+- 👯 I’m looking to collaborate on **Nothing**
 
-- 🤝 I’m looking for help with **Learning ruby**
+- 🤝 I’m looking for help with **Spongebob Virus**
 
 - 📫 How to reach me **0xThug@proton.me**
 
