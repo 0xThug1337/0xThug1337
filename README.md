@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xthug1337" alt="0xthug1337" /></a> </p>
 
-- 🔭 I’m currently working on **Zeus Nuker**
+- 🔭 I’m currently working on **a fortnite cheat**
 
 - 🌱 I’m currently learning **Reverse Engineering**
 
-- 👯 I’m looking to collaborate on **Nothing**
+- 👯 I’m looking to collaborate on **a fortnite cheat**
 
 - 🤝 I’m looking for help with **Nothing**
 
